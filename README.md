@@ -97,6 +97,15 @@
 
 ## vConsole plugin
 ### Docs
+* https://github.com/Tencent/vConsole/blob/dev/doc/plugin_getting_started.md
+
+### Examples
+* https://github.com/Tencent/vConsole/tree/dev/src
+* https://github.com/WechatFE/vConsole-elements
+* https://github.com/WechatFE/vConsole-resources
+
+## VSCode extension
+### Docs
 * https://code.visualstudio.com/api
 
 ### Examples
