@@ -1,5 +1,14 @@
 # My Awesome
 
+## Assembly
+### Docs
+* https://cs.lmu.edu/~ray/notes/nasmtutorial/
+* https://sonictk.github.io/asm_tutorial/
+
+## Basecamp API
+### Docs
+* https://github.com/basecamp/bc3-api
+
 ## Chrome extension
 ### Docs
 * https://developer.chrome.com/extensions
@@ -7,12 +16,24 @@
 ### Examples
 * https://github.com/GoogleChrome/chrome-app-samples
 
+## Contentful
+### Docs
+* https://www.contentful.com/developers/docs/
+
+## CraftCMS
+### Docs
+* https://docs.craftcms.com/v3/
+
 ## Discourse plugin
 ### Docs
 * https://meta.discourse.org/t/beginners-guide-to-creating-discourse-plugins-part-1/30515
 
 ### Examples
 * https://github.com/discourse/all-the-plugins
+
+## dotCMS
+### Docs
+* https://dotcms.com/docs/latest/web-apis
 
 ## Edge extension
 ### Docs
@@ -29,12 +50,24 @@
 * https://github.com/github/eslint-plugin-github
 * https://github.com/yannickcr/eslint-plugin-react
 
+## FastCGI
+### Docs
+* https://fastcgi-archives.github.io/
+
 ## Firefox extension
 ### Docs
 * https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
 
+## Gitlab Development
+### Docs
+* https://docs.gitlab.com/ee/development/
+
 ### Examples
 * https://github.com/mdn/webextensions-examples
+
+## Magento
+### Docs
+* https://devdocs.magento.com/#/individual-contributors
 
 ## Jira extension
 ### Docs
@@ -43,9 +76,16 @@
 ### Examples
 * https://developer.atlassian.com/server/framework/atlassian-sdk/example-extensions/
 
+## Kibana plugins
+### Docs
+* https://www.elastic.co/guide/en/kibana/current/development-plugin-resources.html
+
 ## Odoo module
 ### Docs
 * https://www.odoo.com/documentation/13.0/howtos/backend.html
+* https://www.youtube.com/channel/UCVKlUZP7HAhdQgs-9iTJklQ
+* https://www.youtube.com/channel/UCKjWLm7iCyOYINVspCSanjg
+* https://www.cybrosys.com/blog/
 
 ### Examples
 * https://github.com/Yenthe666/Odoo_Samples
@@ -66,6 +106,10 @@
 
 ### Examples
 * https://github.com/SharePoint/sp-dev-fx-extensions
+
+## Shopify
+### Docs
+* https://shopify.dev/concepts/shopify-introduction
 
 ## Slack app
 ### Docs
@@ -109,4 +153,14 @@
 * https://code.visualstudio.com/api
 
 ### Examples
+* https://github.com/microsoft/vscode-docker
 * https://github.com/microsoft/vscode-extension-samples
+* https://github.com/Microsoft/vscode-mssql
+
+## Woocommerce
+### Docs
+* https://woocommerce.com/developers
+
+## Wordpress
+### Docs
+* https://developer.wordpress.com/docs/
