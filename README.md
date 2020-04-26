@@ -100,6 +100,16 @@
 ### Examples
 * https://github.com/operasoftware/devopera/blob/master/src/_extensions/extension-samples.md
 
+## React UI framework
+* Atlaskit (Atlassian) https://atlaskit.atlassian.com/
+* Baseweb (Uber) https://github.com/uber/baseweb
+* Blueprint (Palantir) https://github.com/palantir/blueprint
+* Carbon (IBM) https://github.com/carbon-design-system/carbon
+* Evergreen(Segmentio) https://github.com/segmentio/evergreen/
+* FluentUI (Microsoft) https://github.com/microsoft/fluentui
+* Gestalt (Pinterest) https://github.com/pinterest/gestalt
+* Grommet (Grommet) https://github.com/grommet/grommet
+
 ## Sharepoint extension
 ### Docs
 * https://docs.microsoft.com/en-us/sharepoint/dev/
