@@ -109,6 +109,7 @@
 * FluentUI (Microsoft) https://github.com/microsoft/fluentui
 * Gestalt (Pinterest) https://github.com/pinterest/gestalt
 * Grommet (Grommet) https://github.com/grommet/grommet
+* Polaris (Shopify) https://github.com/Shopify/polaris-react
 
 ## Sharepoint extension
 ### Docs
