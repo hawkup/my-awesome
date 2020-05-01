@@ -121,6 +121,8 @@
 ## Shopify
 ### Docs
 * https://shopify.dev/concepts/shopify-introduction
+### Tools
+* https://github.com/shopifypartners/developer-tools
 
 ## Slack app
 ### Docs
@@ -142,6 +144,22 @@
 * https://github.com/slackapi/template-message-linking
 * https://github.com/slackapi/template-slash-command-and-dialogs
 * https://github.com/slackapi/template-terms-of-service
+
+## Payment service
+### Docs
+* https://developer.paypal.com/docs/api/overview
+* https://apiportal.kasikornbank.com/open-api/
+* https://developer.scb/
+* https://developer.apple.com/apple-pay/
+* https://developer.2c2p.com/docs
+* https://pay.weixin.qq.com/wechatpay_guide/help_docs.shtml
+* https://intl.alipay.com/doc/gr/apispec
+* https://developer.squareup.com/us/en/online-payment-apis
+* https://developers.google.com/pay/api
+* https://stripe.com/docs/api
+* https://pay.line.me/
+* https://shopify.dev/docs/hosted-payment-sdk/getting-started
+* https://www.unionpayintl.com/api/en/
 
 ## XD plugin
 ### Docs
