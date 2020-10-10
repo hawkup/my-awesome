@@ -1,5 +1,10 @@
 # My Awesome
 
+## Blog
+* https://eli.thegreenplace.net/
+* https://keathley.io/
+* https://ishadeed.com/
+
 ## Assembly
 ### Docs
 * https://cs.lmu.edu/~ray/notes/nasmtutorial/
