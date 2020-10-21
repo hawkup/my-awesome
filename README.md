@@ -29,6 +29,10 @@
 ### Docs
 * https://docs.craftcms.com/v3/
 
+## CSS
+* https://cssdb.org/
+* https://www.w3.org/Style/CSS/current-work
+
 ## Discourse plugin
 ### Docs
 * https://meta.discourse.org/t/beginners-guide-to-creating-discourse-plugins-part-1/30515
