@@ -14,6 +14,16 @@
 ### Docs
 * https://github.com/basecamp/bc3-api
 
+## Chromium
+* https://chromium.googlesource.com/chromium/src/+/refs/heads/master/docs/vscode.md
+* https://chromium.googlesource.com/chromium/src/+/refs/heads/master/docs/threading_and_tasks.md
+* https://www.chromium.org/developers/design-documents
+* https://www.chromium.org/developers/design-documents/multi-process-architecture
+* https://www.chromium.org/developers/design-documents/network-stack
+* https://chromium.googlesource.com/chromium/src/+/refs/heads/master/docs/webui_explainer.md
+* https://chromium.googlesource.com/chromium/src/+/refs/heads/master/styleguide/c++/c++.md
+* https://chromium.googlesource.com/chromium/src/+/refs/heads/master/styleguide/web/web.md
+
 ## Chrome extension
 ### Docs
 * https://developer.chrome.com/extensions
